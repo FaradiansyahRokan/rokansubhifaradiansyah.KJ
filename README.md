@@ -9,6 +9,6 @@
 8. split terminal
 9. npm run dev
 10. php artisan serve
-11. generate key <br>
+11. generate key <br><br>
 "Sebelum Menjalankan project di atas pastikan XAMPP susah Berjalan (terkhusus untuk MySQL)"
 "jika Belum Memiliki Akun Maka Harus Register Terlebih Dahulu"
